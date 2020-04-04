@@ -4,3 +4,4 @@ numpy
 bqplot
 ipywidgets
 voila
+xlrd
